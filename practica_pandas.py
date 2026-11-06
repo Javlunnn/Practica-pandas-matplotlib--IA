@@ -2,9 +2,9 @@
 Práctica de laboratorio: Análisis y visualización de calificaciones con Pandas y Matplotlib
 Tópicos Avanzados de Programación - ISC - Instituto Tecnológico de Ciudad Madero
 
-Nombre del estudiante:
-Número de control:
-Fecha:
+Nombre del estudiante: Luna Guzman Jesus Javier
+Número de control: 23071533
+Fecha: 06/11/2026
 
 Uso:
     python practica_pandas.py      -> ejecuta los seis ejercicios en consola

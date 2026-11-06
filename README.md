@@ -98,8 +98,8 @@ Los archivos se leen y se guardan en la carpeta del script, sin importar desde d
 
 ## Autor
 
-- **Nombre:** _(completar)_
-- **Número de control:** _(completar)_
+- **Nombre:** Luna Guzman Jesus Javier
+- **Número de control:** 23071533
 - **Docente:** Alejandro Estrada Padilla
 
 ---
